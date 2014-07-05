@@ -1,5 +1,7 @@
 # dbot-url
 
+![Travis CI](https://travis-ci.org/dddware/dbot-url.svg)
+
 URL shortening plugin for [dbot](https://github.com/dddware/dbot).
 
 ## Usage
