@@ -1,6 +1,7 @@
 {
   "name": "dbot-url",
   "description": "URL shortening plugin for dbot",
+  "version": "0.0.1",
   "main": "dbot.js",
   "scripts": {
     "test": "jasmine-node dbot-url.spec.js"
@@ -10,8 +11,8 @@
     "url": "git://github.com/dddware/dbot-url"
   },
   "author": {
-    "name": "neemzy",
-    "email": "tom.panier@free.fr"
+    "name": "victordarras",
+    "email": "victor.darras@gmail.com"
   },
   "bugs": {
     "url": "https://github.com/dddware/dbot-url/issues"
