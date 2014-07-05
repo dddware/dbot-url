@@ -15,5 +15,5 @@ A [bit.ly](https://bit.ly) URL.
 ## Tests
 
 ```shell
-npm test # run tests
+npm test
 ```
